@@ -1,0 +1,19 @@
+Feature,Importance
+study_hours_per_day,0.7083497767135721
+mental_health_rating,0.10665669543133766
+social_media_hours,0.03911558268916383
+sleep_hours,0.03730590607501526
+netflix_hours,0.03512749992423925
+exercise_frequency,0.02553669037300335
+attendance_percentage,0.02003716255662944
+age,0.008799825681144456
+diet_quality_Good,0.0028001308684270955
+gender_Male,0.002384009030672359
+internet_quality_Good,0.002203803892375177
+parental_education_level_High School,0.0021252437347503814
+part_time_job_Yes,0.0019092696661241202
+parental_education_level_Master,0.0019056019965524775
+extracurricular_participation_Yes,0.001878160800074235
+diet_quality_Poor,0.0017271841321005268
+internet_quality_Poor,0.0016346168035940318
+gender_Other,0.0005028396312241907

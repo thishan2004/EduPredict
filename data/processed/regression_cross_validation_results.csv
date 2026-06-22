@@ -1,0 +1,3 @@
+Model,Mean R2 Score,Standard Deviation
+Linear Regression,0.895712643221518,0.010335459106420015
+Random Forest Regressor,0.8532555807487968,0.02225081828795268

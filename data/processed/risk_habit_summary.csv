@@ -1,0 +1,4 @@
+academic_risk_level,study_hours_per_day,social_media_hours,netflix_hours,attendance_percentage,sleep_hours,mental_health_rating,exercise_frequency,exam_score
+High Risk,2.05,2.74,2.05,83.36,6.28,4.43,2.73,48.74
+Low Risk,5.03,2.2,1.61,85.5,6.68,6.6,3.42,90.11
+Medium Risk,3.57,2.54,1.81,83.76,6.46,5.35,3.0,69.96
