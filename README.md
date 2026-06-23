@@ -1,6 +1,9 @@
-
-
 # 🎓 EduPredict: AI-Powered Student Learning Analytics & Academic Success Platform
+
+## Live Demo
+
+🚀 Try EduPredict here:  
+https://edupredict-amgsk8umegcfe6k3kjjxhh.streamlit.app
 
 ## 📌 Project Overview
 
