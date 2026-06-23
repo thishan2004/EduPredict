@@ -1,0 +1,21 @@
+# macOS
+
+.DS_Store
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual Environments
+
+venv/
+.env
+
+# Streamlit Secrets
+
+.streamlit/secrets.toml
