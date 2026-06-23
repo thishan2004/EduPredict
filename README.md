@@ -369,5 +369,7 @@ BSc (Hons) Information Technology – Data Science Specialization
 Sri Lanka Institute of Information Technology (SLIIT)
 
 GitHub: https://github.com/thishan2004
+
 Email: thishan2004@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/thishanujan-kugathasan-7282b9311/
