@@ -359,7 +359,7 @@ streamlit run app/app.py
 
 # 👨‍💻 Author
 
-**Thishanujan Kugathasan
+Thishanujan Kugathasan
 
 BSc (Hons) Information Technology – Data Science Specialization
 
